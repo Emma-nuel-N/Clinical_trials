@@ -1,4 +1,4 @@
-"# Clinical_trials" 
+# Clinical_trials
 
 The dataset was downloaded from the urls provided below and processed using Apache Spark's distributed computing framework 
 The dataset used for this project is a combination of two datasets comprising of clinical trials and pharmaceutical companies sourced from the clinicaltrials.gov and https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals respectively. 
